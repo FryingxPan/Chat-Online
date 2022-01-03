@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/lista_de_tarefas/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/lista_de_tarefas/build" />
+      <excludeFolder url="file://$MODULE_DIR$/lista_de_tarefas/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/calcimc/build" />
+      <excludeFolder url="file://$MODULE_DIR$/calcimc/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/calcimc/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/conversormoedas/build" />
+      <excludeFolder url="file://$MODULE_DIR$/conversormoedas/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/conversormoedas/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/agenda_de_contatos/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/agenda_de_contatos/build" />
+      <excludeFolder url="file://$MODULE_DIR$/agenda_de_contatos/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/pesquise_gifsaqui/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/pesquise_gifsaqui/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/pesquise_gifsaqui/build" />
+      <excludeFolder url="file://$MODULE_DIR$/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/build" />
+      <excludeFolder url="file://$MODULE_DIR$/.pub" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
+    <orderEntry type="library" name="Flutter Plugins" level="project" />
+  </component>
+</module>
